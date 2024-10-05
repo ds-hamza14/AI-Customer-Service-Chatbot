@@ -1,0 +1,9 @@
+pandas
+numpy
+seaborn
+transformers
+tensorflow
+torch
+flask
+django
+google-cloud
